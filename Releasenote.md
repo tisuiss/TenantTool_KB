@@ -1,5 +1,7 @@
-# [v3.1.2] - 2025-05-03
+# <span style="color:orange"> [v3.1.2] - 2025-05-03 </span>
 
+# [v3.1.2] - 2025-05-03
+test
 ## 🆕 News
 > - Add Template section on NewTenant  
 > - Add Conditional Access section on NewTenant  
