@@ -1,3 +1,9 @@
+# [v3.1.3] - 2025-05-05
+## 🆕 News
+> - Add Apps sesction with documentation and intunewin creation
+
+---
+
 # [v3.1.2] - 2025-05-03
 ## 🆕 News
 > - Add Template section on NewTenant  
