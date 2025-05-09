@@ -1,3 +1,10 @@
+# [v3.1.4] - 2025-05-09
+
+### 🐛 Bugfix
+> - Fix bug whith intunewin generation and add logo section on .md file (+ dl logo file)
+
+---
+
 # [v3.1.3] - 2025-05-05
 ## 🆕 News
 > - Add Apps sesction with documentation and intunewin creation
