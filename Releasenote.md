@@ -1,3 +1,9 @@
+# [v3.2.0] - 2025-07-22
+## 🆕 News
+> - Add MSAL authentification with token 
+
+---
+
 # [v3.1.4] - 2025-05-09
 
 ### 🐛 Bugfix
